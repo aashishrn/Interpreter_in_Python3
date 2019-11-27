@@ -6,13 +6,13 @@
 
 **Sample Code:**
 
-  _program Main;
-  var x, y, z : integer;
-  begin { Main }
-     y := 7;
-     x := (y + 3) * 3;
-     z := (x * 2);
-  end.  { Main }_
+_program Main;_
+_var x, y, z : integer;_
+_begin { Main }_
+    _y := 7;_
+    _x := (y + 3) * 3;_
+    _z := (x * 2);_
+_end.  { Main }_
   
 **Corresponding AST Generated:**
 

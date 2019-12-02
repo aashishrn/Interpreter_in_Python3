@@ -4,6 +4,10 @@
 
 ![Image of structure of Interpreter](https://github.com/toobazameer/Interpreter_in_Python3/blob/master/Images/Interpreter.png)
 
+<h3>Grammar FOR Syntax</h3>
+
+![Image for Grammar rules](https://github.com/toobazameer/Interpreter_in_Python3/blob/master/Images/Syntax-grammar.png)
+
 **Sample Code:**
 
 _program Main;_  
